@@ -1,6 +1,16 @@
-# to_do
+# ToDo App
+This is my first Flutter app, a simple ToDo app. It uses the following technologies:
 
-A new Flutter project.
+Dart
+Flutter
+Sqflite
+BLoC (Cubit)
+The app allows users to create, edit, and delete tasks. Tasks can be marked as completed or not completed.
+
+Getting Started
+To run the app, you will need to have Flutter installed. You can find the installation instructions here: https://flutter.dev/docs/get-started/install
+
+Once you have Flutter installed, you can clone this repository and open the project in your preferred IDE.
 
 ## Getting Started
 
