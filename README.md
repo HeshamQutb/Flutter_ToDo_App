@@ -1,5 +1,5 @@
 # ToDo App
-This is my first Flutter app, a simple ToDo app. It uses the following technologies:
+This is my first Flutter app, a simple ToDo app, which showcases the implementation of various concepts learned during a course. It uses the following technologies:
 
 * Dart
 * Flutter
