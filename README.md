@@ -6,7 +6,9 @@ This is my first Flutter app, a simple ToDo app, which showcases the implementat
 * Sqflite
 * BLoC (Cubit)
 * The app allows users to create and delete tasks. Tasks can be marked as completed or not completed.
-(https://github.com/HeshamQutb/Flutter_ToDo_App/assets/81641524/2571511a-db68-4af5-a824-eb4ef7874711)
+
+![Screenshot_2023-12-06-17-51-08-09_bce91d7694c97c801989deeb413c3e6e]
+
 Getting Started
 To run the app, you will need to have Flutter installed. You can find the installation instructions here: https://flutter.dev/docs/get-started/install
 
